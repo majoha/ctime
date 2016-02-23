@@ -17,6 +17,7 @@
     <ProjectGuid>{AE2CDF1B-C0B9-41A8-AE53-A09C3DC77573}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>for_tests</RootNamespace>
+    <ProjectName>ctime</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
